@@ -1,8 +1,13 @@
+
+## terraform files
 .terraform*
-terraform.tfstate*
+*.tfstate*
+*.tfplan
+
+
 .DS_Store
+
 # pycharm
 .idea/
 __pycache__/
 sa-key.json
-*.tfplan
